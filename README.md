@@ -1,0 +1,2 @@
+# pythonFlask-web
+吾理小工具的app和小程序web应用后台 采用flask实现 完成了微信小程序的通知推送和安卓的获取通知请求接口 数据库采用mysql
